@@ -10,7 +10,7 @@
                             Astra v3.9.5
            Multi-protocol offensive and defensive toolkit
                              for Termux
-                         written by masrukh
+                         written by  mashrukh
 
 
 
