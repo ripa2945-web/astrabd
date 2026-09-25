@@ -1,11 +1,25 @@
-To give you a massive, production-grade layout for your **AstrabdCybersecurity** project covering every single category—complete with deep architecture, tactical breakdown, attack mechanics, and tool code structures—here is an exhaustive engineering manual framework:
+<div align="center">
+
+```text
+    _   ____ _____ ____      _    
+   / \ / ___|_   _|  _ \    / \   
+  / _ \\___ \ | | | |_) |  / _ \  
+ / ___ ___) || | |  _ <  / ___ \ 
+/_/   \_\____/ |_| |_| \_\/_/   \_\
+ 
+ > Secure System InitializedTo give you a massive, production-grade layout for your **AstrabdCybersecurity** project covering every single category—complete with deep architecture, tactical breakdown, attack mechanics, and tool code structures—here is an exhaustive engineering manual framework:
 
 ---
 
 # ASTRABDCYBERSECURITY: COMPREHENSIVE CYBERSECURITY ENGINEERING MANUAL & TOOLKIT ARCHITECTURE
 
 > **Disclaimer:** This framework and code reference is strictly for educational, defensive analysis, and authorized penetration testing. Unauthorized testing or exploiting systems without explicit written permission is illegal and violates professional ethical standards.
+# Clone the repository
+git clone [https://github.com/ripa2945-web/astrabd.git](https://github.com/ripa2945-web/astrabd.git)
+cd astrabd
 
+# Update environment & setup tools
+pkg update && pkg install python git -y
 ---
 
 ## MODULE 1: NETWORK RECONNAISSANCE & PORT SCANNING (ASTRASCAN)
