@@ -13,13 +13,7 @@
 
 # ASTRABDCYBERSECURITY: COMPREHENSIVE CYBERSECURITY ENGINEERING MANUAL & TOOLKIT ARCHITECTURE
 
-> **Disclaimer:** This framework and code reference is strictly for educational, defensive analysis, and authorized penetration testing. Unauthorized testing or exploiting systems without explicit written permission is illegal and violates professional ethical standards.
-# Clone the repository
-git clone [https://github.com/ripa2945-web/astrabd.git](https://github.com/ripa2945-web/astrabd.git)
-cd astrabd
-
-# Update environment & setup tools
-pkg update && pkg install python git -y
+> **Disclaimer:** This framework and code reference is strictly for educational, defensive analysis, and authorized penetration testing. Unauthorized testing or exploiting systems without explicit written permission is illegal and violates professional ethical standarts
 ---
 
 ## MODULE 1: NETWORK RECONNAISSANCE & PORT SCANNING (ASTRASCAN)
@@ -518,3 +512,9 @@ You can deploy, test, and expand these scripts directly within your terminal wor
 python3 astra_tcp_scanner.py 127.0.0.1
 
 ```Uncovering vulnerabilities, building custom red-team frameworks, and mastering the architecture of secure systems—one line of code at a time."
+##Clone the repository
+git clone [https://github.com/ripa2945-web/astrabd.git](https://github.com/ripa2945-web/astrabd.git)
+cd astrabd
+
+# Update environment & setup tools
+pkg update && pkg install python git -y ##
