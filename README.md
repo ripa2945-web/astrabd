@@ -1,12 +1,26 @@
-<div align="center">
 
-```text
-    _   ____ _____ ____      _    
-   / \ / ___|_   _|  _ \    / \   
-  / _ \\___ \ | | | |_) |  / _ \  
- / ___ ___) || | |  _ <  / ___ \ 
-/_/   \_\____/ |_| |_| \_\/_/   \_\
- 
+
+     █████╗ ███████╗████████╗██████╗  █████╗ 
+    ██╔══██╗██╔════╝╚══██╔══╝██╔══██╗██╔══██╗
+    ███████║███████╗   ██║   ██████╔╝███████║
+    ██╔══██║╚════██║   ██║   ██╔══██╗██╔══██║
+    ██║  ██║███████║   ██║   ██║  ██║██║  ██║
+    ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝
+
+                            Astra v3.9.5
+           Multi-protocol offensive and defensive toolkit
+                             for Termux
+                         written by masrukh
+
+
+
+
+
+
+
+
+
+
  > Secure System InitializedTo give you a massive, production-grade layout for your **AstrabdCybersecurity** project covering every single category—complete with deep architecture, tactical breakdown, attack mechanics, and tool code structures—here is an exhaustive engineering manual framework:
 
 ---
