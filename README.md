@@ -1,4 +1,9 @@
+# 🛡️ Astra Termux Toolkit
 
+A modular command-line utility built for Termux to streamline security testing and network workflows. Designed for efficiency, ease of review, and seamless execution.
+
+[<img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github">](https://github.com/YourUsername)
+[<img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">](LICENSE)
 
      █████╗ ███████╗████████╗██████╗  █████╗ 
     ██╔══██╗██╔════╝╚══██╔══╝██╔══██╗██╔══██╗
